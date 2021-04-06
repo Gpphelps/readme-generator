@@ -4,7 +4,7 @@
 Creating a quality readme is essential to the production of opensource web applications and projects. ReadMe files let others understand what the project is desgined to do as well as the methods that it uses to function. It also shows users how to contribute to the project or post an issue to the proect. This readme generator allows the user to quickly create a good readme.md file without having to type so much into their code editor, freeing up more time to actually code.
 
 ## Video Example
-file:///C:/Users/gpphe/Downloads/readme.gif
+file:///C:/Desktop/readme-generator/readme.gif
 
 ## Installation
 Run [npm i] in the integrated terminal for the application.
