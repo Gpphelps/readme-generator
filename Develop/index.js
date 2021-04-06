@@ -12,37 +12,37 @@ const questions = [
     {
         type: "input",
         name: "badge",
-        message: "Please provide the badges links that you want"
+        message: "Please provide the badges links that you want."
     },
     {
         type: "input",
         name: "description",
-        message: "Please provide your project's description"
+        message: "Please provide your project's description."
     },
     {
         type: "input",
         name: "installation",
-        message: "Please provide the installation instructions"
+        message: "What are the installation instructions?"
     },
     {
         type: "input",
         name: "usage",
-        message: "Please provide the project usage"
+        message: "What is the project usage?"
     },
     {
         type: "input",
         name: "licence",
-        message: "Please provide the project licence or your badge link"
+        message: "Please provide the project licence or your badge link."
     },
     {
         type: "input",
         name: "contributing",
-        message: "Please provide the contributing parties"
+        message: "Please provide the contributing parties."
     },
     {
         type: "input",
         name: "test",
-        message: "Please provide the project tests"
+        message: "Please provide the project tests."
     },
     {
         type: "input",
@@ -52,7 +52,7 @@ const questions = [
     {
         type: "input",
         name: "repo",
-        message: "What is your repository link?"
+        message: "What is your repository's link?"
     },
 ];
 
